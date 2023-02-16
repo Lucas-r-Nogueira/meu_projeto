@@ -2,4 +2,4 @@
 
 ## Curso de Desenvolvimento de Sistemas
 
-Este é um exemplo de projeto com git
+Este é um exemplo de projeto com git :D - pela segunda vez
